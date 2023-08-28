@@ -1,6 +1,3 @@
-Claro! Aqui está um exemplo de README com os códigos que você forneceu:
-
-```markdown
 # Nike Store Website
 
 Este é o código-fonte para o website da Nike Store, construído usando React e Tailwind CSS. O website apresenta uma coleção de produtos, avaliações de clientes, ofertas especiais e informações sobre os serviços da loja.
